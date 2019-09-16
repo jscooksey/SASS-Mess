@@ -1,8 +1,11 @@
 @import 'config';
 @import 'menu';
 
+@import url('https://fonts.googleapis.com/css?family=Hepta+Slab:600&display=swap');
+
 * {
     box-sizing: border-box;
+    font-family: 'Hepta Slab', serif;
 }
 
 body {
